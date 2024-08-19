@@ -4,7 +4,7 @@ const Child = memo(() => {
   const aaaa = '';
   const bbbb = '';
   const cccc = '';
-  const dddd = '';
+  const eeee = 'asdfas';
   return <div>Child</div>
 });
 
