@@ -4,6 +4,7 @@ const Child = memo(() => {
   const aaaa = '';
   const bbbb = '';
   const eeee = 'asdfas';
+  const as = 'asdfas';
   return <div>Child</div>
 });
 
