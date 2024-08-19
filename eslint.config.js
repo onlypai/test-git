@@ -62,6 +62,7 @@ export default tsEslint.config(
       prettier,
     },
     rules: {
+      'no-unused-vars': 'error',
       ...reactHooks.configs.recommended.rules,
       ...react.configs.recommended.rules,
       ...react.configs['jsx-runtime'].rules,
