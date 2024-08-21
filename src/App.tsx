@@ -6,6 +6,8 @@ import './App.css';
 function App() {
   const [count, setCount] = useState(0);
   // const aaa = '';
+  console.log('测试不使用交互式提交');
+
   return (
     <>
       <div>
